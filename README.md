@@ -10,10 +10,6 @@
 
 ## 📂 Project Structure
 
-### Core Notebooks
-- **AIFM_Dataset_Preparation.ipynb** - Dataset preparation and preprocessing
-- **AIFM_Full_Finetuning.ipynb** - Fine-tuning pipeline
-- **Adding_Datasets_to_UTKface.ipynb** - UTKface dataset integration
 
 ### Age Prediction Model
 - **Age_Prediction_Model/** - ResNet-based age prediction models
