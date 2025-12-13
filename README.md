@@ -7,7 +7,11 @@
 - **[CYCV001_Report.pdf](./CYCV001_Report.pdf)** - Detailed Aage Invariant Face Matching project report
 
 ---
+##  AIFM System Architecture
 
+![AIFM Architecture](./images/AIFM_Architecture.png)
+
+---
 ##  How to Run the System
 
 Follow these steps to run the AIFM system:
