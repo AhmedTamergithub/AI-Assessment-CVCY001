@@ -21,9 +21,10 @@ Follow these steps to run the AIFM system:
 3. **Run all cells**: Execute all cells in the notebook sequentially to get matching results
 ### Example Code:
 ![System Example](./images/System.PNG)
----
 
-##  Project Structure
+
+
+## 📂 Project Structure
 
 
 ### Age Prediction Model
@@ -69,3 +70,17 @@ Download these files and place them in the appropriate directories within the pr
 1. **Age Prediction Model Dataset** - The Combined (UTKface + FG-NET + APPA-REAL) dataset used for training the age prediction model
    - [Download Dataset](https://drive.google.com/file/d/19DDFTo3GdBDRV73meu_ots0grhJ4GYHh/view?usp=sharing)
 
+---
+
+## 📸 Test Examples
+
+This section demonstrates how the AIFM system performs on different test samples:
+
+![Test Sample](./images/test_sample1.PNG)
+
+The system successfully demonstrates:
+- Age-invariant face matching across different ages
+- Accurate face verification using the MLP head model
+- Effective age prediction for facial analysis
+
+---
