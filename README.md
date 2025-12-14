@@ -4,7 +4,7 @@
 
 ### Main Report:
 
-- **[CVCY001_Report.pdf](./CVCY001_Report.pdf)** - Detailed Aage Invariant Face Matching project report
+- **[CVCY001_Report.pdf](./CVCY001_Report.pdf)** - Detailed Age Invariant Face Matching project report
 
 ---
 ##  AIFM System Architecture
